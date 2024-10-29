@@ -14,7 +14,7 @@ function App() {
     <div className="App">
       <BrowserRouter>
         <Routes>
-          <Route path='/front_chat' element={<Home />} />
+          <Route path='/slips-game' element={<Home />} />
           {/* <Route path='/notifications' element={<NotificationHandler />} /> */}
         </Routes>
       </BrowserRouter>
