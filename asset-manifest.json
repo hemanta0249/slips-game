@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/slips-game/static/css/main.048c4024.css",
-    "main.js": "/slips-game/static/js/main.32ea9026.js",
+    "main.js": "/slips-game/static/js/main.f8ae9201.js",
     "static/js/453.f0452d5d.chunk.js": "/slips-game/static/js/453.f0452d5d.chunk.js",
     "index.html": "/slips-game/index.html",
     "main.048c4024.css.map": "/slips-game/static/css/main.048c4024.css.map",
-    "main.32ea9026.js.map": "/slips-game/static/js/main.32ea9026.js.map",
+    "main.f8ae9201.js.map": "/slips-game/static/js/main.f8ae9201.js.map",
     "453.f0452d5d.chunk.js.map": "/slips-game/static/js/453.f0452d5d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.048c4024.css",
-    "static/js/main.32ea9026.js"
+    "static/js/main.f8ae9201.js"
   ]
 }
