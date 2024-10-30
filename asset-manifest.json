@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/slips-game/static/css/main.048c4024.css",
-    "main.js": "/slips-game/static/js/main.f8ae9201.js",
-    "static/js/453.f0452d5d.chunk.js": "/slips-game/static/js/453.f0452d5d.chunk.js",
-    "index.html": "/slips-game/index.html",
-    "main.048c4024.css.map": "/slips-game/static/css/main.048c4024.css.map",
-    "main.f8ae9201.js.map": "/slips-game/static/js/main.f8ae9201.js.map",
-    "453.f0452d5d.chunk.js.map": "/slips-game/static/js/453.f0452d5d.chunk.js.map"
+    "main.css": "./static/css/main.048c4024.css",
+    "main.js": "./static/js/main.2bc02651.js",
+    "static/js/453.f0452d5d.chunk.js": "./static/js/453.f0452d5d.chunk.js",
+    "index.html": "./index.html",
+    "main.048c4024.css.map": "./static/css/main.048c4024.css.map",
+    "main.2bc02651.js.map": "./static/js/main.2bc02651.js.map",
+    "453.f0452d5d.chunk.js.map": "./static/js/453.f0452d5d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.048c4024.css",
-    "static/js/main.f8ae9201.js"
+    "static/js/main.2bc02651.js"
   ]
 }
